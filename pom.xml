@@ -72,7 +72,7 @@
         <dependency>
             <groupId>com.github.appreciated</groupId>
             <artifactId>card</artifactId>
-            <version>0.7.0</version>
+            <version>0.9.4</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
